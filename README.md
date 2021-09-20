@@ -1,4 +1,4 @@
-# [Adarsh Dubey](https://adarshdubey.netlify.app)
+# Adarsh Dubey <img src="https://user-images.githubusercontent.com/84132532/134048363-eecb2f55-29c5-49e0-9a0b-b6ef82eab763.png" width="35px">
 
 [Linked In](https://www.linkedin.com/in/adarsh-dubey-479787212/)   |   [Portfolio](https://adarshdubey.netlify.app)   |   [Behance](https://behance.net/adarshdubey6)   |   [Telegram](https://t.me/inclinedadarsh)
 
