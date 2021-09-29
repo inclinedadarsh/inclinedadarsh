@@ -1,6 +1,6 @@
 # Adarsh Dubey <img src="https://user-images.githubusercontent.com/84132532/134048363-eecb2f55-29c5-49e0-9a0b-b6ef82eab763.png" width="35px">
 
-[Linked In](https://www.linkedin.com/in/adarsh-dubey-479787212/)   |   [Portfolio](https://adarshdubey.netlify.app)   |   [Behance](https://behance.net/adarshdubey6)   |   [Telegram](https://t.me/inclinedadarsh)
+[Linked In](https://www.linkedin.com/in/dubeyadarsh)   |   [Portfolio](https://adarshdubey.netlify.app)   |   [Behance](https://behance.net/dubeyadarsh)   |   [Telegram](https://t.me/inclinedadarsh)
 
 Hi, I'm Adarsh. **I'm a brand identity designer, web designer, and front-end developer** with over 6+ months of experience.
 You can also call me a **product designer, experience designer, interaction, UI, UX**, or any other market-defined function title.
