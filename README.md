@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I am Adarsh Dubey, a Frontend Web developer and User Experience (UI/UX) Designer. I presently hold the positions of Web Designer at [Community Classroom](https://commclassroom.org), UX Designer at [Rentroomo](https://rentroomo.com), as well as Freelance UX Designer and Frontend Web Developer. I enjoy making contributions to open-source projects.
+I am Adarsh Dubey, a Frontend Web developer and User Experience (UI/UX) Designer. I presently hold the positions of Web Designer at [WeMakeDevs](https://wemakedevs.org), UX Designer at [Rentroomo](https://rentroomo.com), as well as Freelance UX Designer and Frontend Web Developer. I enjoy making contributions to open-source projects.
 
 I am always open to collaborate on Open Source Projects or work as a Freelancer. Managing people, events and teams is something I am interested in. If you have an idea, let's discuss it!
 
@@ -52,8 +52,9 @@ I am always open to collaborate on Open Source Projects or work as a Freelancer.
 
 ### 🏢 Work Experience
 
-- [Community Classroom](https://commclassroom.org) - Web Designer
-- [Rentroomo](https://rentroomo.com) - UX Designer
+- [WeMakeDevs](https://wemakedevs.org) - Web Designer & Developer
+- [CNCF Nashik](https://community.cncf.io/nashik/) - Lead Team & Core Member
+- [Rentroomo](https://rentroomo.com) - UX Designer (6 Months)
 - Freelance - UX Designer & Frontend Web Developer
 
 ### 📚 Education
