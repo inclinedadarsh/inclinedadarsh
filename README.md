@@ -79,4 +79,8 @@ I am always open to collaborate on Open Source Projects or work as a Freelancer.
 
 ---
 
+![Adarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=inclinedadarsh&show_icons=true&theme=tokyonight)
+
+---
+
 ## Thank You.
