@@ -83,4 +83,6 @@ I am always open to collaborate on Open Source Projects or work as a Freelancer.
 
 ---
 
+[![An image of @inclinedadarsh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/inclinedadarsh)](https://holopin.io/@inclinedadarsh)
+
 ## Thank You.
