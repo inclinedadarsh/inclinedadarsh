@@ -1,4 +1,4 @@
-# Hi, I am [Adarsh Dubey](https://bio.link/inclinedadarsh) 👋
+# Hi, I am [Adarsh Dubey](https://bento.me/adarsh) 👋
 
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio%20Website-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://adarshdubey.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dubeyadarsh)
