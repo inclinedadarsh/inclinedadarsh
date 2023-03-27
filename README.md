@@ -2,7 +2,7 @@
 
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio%20Website-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://adarshdubey.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dubeyadarsh)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://behance.net/dubeyadarsh)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/inclinedadarsh)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dubeyadarshmain@gmail.com)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/dubeyadarsh)
 [![Hashnode](https://img.shields.io/badge/Hashnode%20(Blogs)-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://behance.net/dubeyadarsh)
