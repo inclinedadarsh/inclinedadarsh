@@ -47,7 +47,7 @@
 <p align="center">
   <img alt="Adarsh's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=inclinedadarsh&count_private=true&theme=tokyonight&show_icons=true" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Adarsh's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=inclinedadarsh&theme=tokyonight&langs_count=5" width="45%">
+  <img alt="Adarsh's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=inclinedadarsh&theme=tokyonight&langs_count=6" width="45%">
 </p>
 
 ---
