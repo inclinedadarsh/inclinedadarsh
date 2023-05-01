@@ -45,7 +45,8 @@
 ---
 
 <p align="center">
-  <img alt="Adarsh's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=inclinedadarsh&count_private=true&theme=tokyonight&show_icons=true">
+  <img alt="Adarsh's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=inclinedadarsh&count_private=true&theme=tokyonight&show_icons=true&rank_icon=github">
+  <img alt="Adarsh's top programming languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&count_private=true&theme=tokyonight&show_icons=true&langs_count=8&layout=compact">
 </p>
 
 ---
