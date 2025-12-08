@@ -1,58 +1,53 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=4000&pause=1000&color=BB86FC&vCenter=true&width=500&lines=Heyy+%F0%9F%91%8B%2C+I'm+Adarsh+Dubey!;Web+Dev%2C+UX+Designer%2C+ML+Enthusiast;Connect+-+https%3A%2F%2Fbento.me%2Fadarsh)](https://git.io/typing-svg)
+# Hey there 👋, I'm Adarsh Dubey
+
+Building ML infrastructure and full-stack applications. Recently wrapped up GSoC 2025 with Google DeepMind.
+
+## 🚀 What I Do
+
+I work at the intersection of machine learning and software engineering — building tools that make ML more accessible and creating robust full-stack applications. Currently focused on fine-tuning infrastructure, deep learning from scratch, and scalable web platforms.
+
+## 🔨 Recent Work
+
+**[Gemma Facet](https://github.com/inclinedadarsh/gemma-facet)** — No-code platform for fine-tuning Google DeepMind's Gemma models  
+Built during GSoC 2025. Handles dataset preprocessing, model training, and exports to multiple formats (GGUF, quantized, etc.). Full pipeline from data upload to deployment-ready models.
+
+**[IncliArray](https://github.com/inclinedadarsh/incliarray)** — N-dimensional array library with autograd in C++  
+Minimal implementation with reverse-mode automatic differentiation, broadcasting, and stride-aware memory management. Think NumPy meets autograd, but in C++.
+
+**[Inclinet](https://github.com/inclinedadarsh/inclinet)** — Deep learning library from scratch  
+Pure Python/NumPy implementation of neural networks. Layers, optimizers, loss functions — all built from first principles.
+
+**Anon Forum** — Anonymous social platform for my college  
+Full-stack app with Google OAuth verification but zero personal data storage. FastAPI backend, Next.js frontend, deployed on AWS.
+
+## 💼 Experience
+
+**Open Source Developer @ Google DeepMind** (GSoC 2025)  
+Built core microservices for dataset preprocessing and model export pipelines. Worked on the Gemma Facet project, creating tools used by the ML community for fine-tuning multimodal models.
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, C/C++, JavaScript/TypeScript  
+**ML/AI:** PyTorch, Keras, Hugging Face, Unsloth  
+**Web:** Next.js, React, FastAPI, Node.js  
+**Databases:** PostgreSQL, MongoDB  
+**Cloud & Tools:** Docker, GCP, AWS, Git
+
+## 📝 Writing
+
+I write about ML, web development, and building stuff at [adarshdubey.com](https://adarshdubey.com)
+
+Recent posts:
+- [GSoC 2025 Project Report: Building Gemma Facet](https://blog.adarshdubey.com/blog/gsoc-final-report)
+- [The Small Language Model Revolution You're Probably Missing](https://blog.adarshdubey.com/blog/small-language-models-revolution)
+
+## 📫 Connect
+
+- Website: [adarshdubey.com](https://adarshdubey.com)
+- X (Twitter): [inclinedadarsh](https://x.com/inclinedadarsh)
+- LinkedIn: [dubeyadarsh](https://linkedin.com/in/dubeyadarsh)
+- Email: dubeyadarshmain@gmail.com
 
 ---
 
-## About
-
--   👋 Hi, I’m **Adarsh Dubey**. Web Developer, UX Designer and Machine Learning Enthusiast.
--   👔 Freelancer, Open Source Contributor and content creator.
--   🌱 I’m currently learning **NextJS + TypeScript** and **TensorflowJS**.
--   🤝 I’m looking to collaborate on **Open Source Projects**
--   📫 How to reach me **https://bento.me/adarsh**
-
----
-
-## Skills
-
--   **Full Stack Web Development**
--   **UX Design**
--   **Machine Learning in Web and Python**
-
----
-
-## Languages
-
--   **JavaScript**
--   **Python**
-
----
-
-## Technologies
-
-| Web Development                                                                               | Machine Learning                                                                                 |
-| --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| **ReactJS**</br>**NodeJS**</br>**ExpressJS**</br>**MongoDB**</br>**TailwindCSS**</br>**Sass** | **TensorflowJS** (Learning)</br>**Pandas**</br>**Numpy**</br>**Scikit-Learn**</br>**Matplotlib** |
-
----
-
-## Tools
-
--   **VS Code**
--   **Git**
--   **Figma**
--   **Bash**
-
----
-
-<p align="center">
-  <img alt="Adarsh's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=inclinedadarsh&count_private=true&theme=tokyonight&show_icons=true&rank_icon=github">
-  <img alt="Adarsh's top programming languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&count_private=true&theme=tokyonight&show_icons=true&langs_count=8&layout=compact">
-</p>
-
----
-
-[![An image of @inclinedadarsh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/inclinedadarsh)](https://holopin.io/@inclinedadarsh)
-
----
-
-## Thank You!
+Currently pursuing B.Tech in AI & Data Science at K. K. Wagh Institute • Open to interesting projects and collaborations
