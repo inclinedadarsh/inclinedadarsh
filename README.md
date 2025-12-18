@@ -8,17 +8,26 @@ I work at the intersection of machine learning and software engineering — buil
 
 ## 🔨 Recent Work
 
-**[Gemma Facet](https://github.com/inclinedadarsh/gemma-facet)** — No-code platform for fine-tuning Google DeepMind's Gemma models  
-Built during GSoC 2025. Handles dataset preprocessing, model training, and exports to multiple formats (GGUF, quantized, etc.). Full pipeline from data upload to deployment-ready models.
+### **[Gemma Facet](https://github.com/inclinedadarsh/gemma-facet)**
+  - No-code platform for fine-tuning Google DeepMind's Gemma models  
+  - Handles dataset preprocessing, model training, and exports to multiple formats (GGUF, quantized, etc.).
+  - Full pipeline from data upload to deployment-ready models.
+  - Built during GSoC 2025.
 
-**[IncliArray](https://github.com/inclinedadarsh/incliarray)** — N-dimensional array library with autograd in C++  
-Minimal implementation with reverse-mode automatic differentiation, broadcasting, and stride-aware memory management. Think NumPy meets autograd, but in C++.
+### **[IncliArray](https://github.com/inclinedadarsh/incliarray)**:
+  - N-dimensional array library with autograd in C++  
+  - Minimal implementation with reverse-mode automatic differentiation, broadcasting, and stride-aware memory management.
+  - Think NumPy meets autograd, but in C++.
 
-**[Inclinet](https://github.com/inclinedadarsh/inclinet)** — Deep learning library from scratch  
-Pure Python/NumPy implementation of neural networks. Layers, optimizers, loss functions — all built from first principles.
+### **[Inclinet](https://github.com/inclinedadarsh/inclinet)**:
+  - Deep learning library from scratch  
+  - Pure Python/NumPy implementation of neural networks.
+  - Layers, optimizers, loss functions, all built from first principles.
 
-**Anon Forum** — Anonymous social platform for my college  
-Full-stack app with Google OAuth verification but zero personal data storage. FastAPI backend, Next.js frontend, deployed on AWS.
+### **Anon Forum**: 
+  - Anonymous social platform for my college  
+  - Full-stack app with Google OAuth verification but zero personal data storage.
+  - FastAPI backend, Next.js frontend, deployed on AWS.
 
 ## 💼 Experience
 
@@ -44,8 +53,8 @@ Recent posts:
 ## 📫 Connect
 
 - Website: [adarshdubey.com](https://adarshdubey.com)
-- X (Twitter): [inclinedadarsh](https://x.com/inclinedadarsh)
-- LinkedIn: [dubeyadarsh](https://linkedin.com/in/dubeyadarsh)
+- X (Twitter): [x.com/inclinedadarsh](https://x.com/inclinedadarsh)
+- LinkedIn: [linkedin.com/in/dubeyadarsh](https://linkedin.com/in/dubeyadarsh)
 - Email: dubeyadarshmain@gmail.com
 
 ---
